@@ -1,7 +1,7 @@
-### Hi there 👋
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)
+
+ 📫 How to reach me:
 
 <!--
 **sfbennett/sfbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
+
+## 🚀 About Me
+
+## 🌱 Currently Exploring
 -->
