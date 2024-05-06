@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)
+
 <!--
 **sfbennett/sfbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
