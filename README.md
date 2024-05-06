@@ -1,7 +1,8 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)
 
- 📫 How to reach me:
+## 📫 How to reach me:
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susannah-bennett-a16627181/)
 
 <!--
