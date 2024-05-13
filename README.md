@@ -1,4 +1,4 @@
-## Languages and Tools
+## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)
 
 #### 📫 Get in touch:
