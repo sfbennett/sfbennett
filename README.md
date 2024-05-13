@@ -1,17 +1,17 @@
 `Full-Stack Software Developer`
-#
 
 #### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
 #
 
+<details>
+ <summary><h4>My Coding Journey</h4></summary>
+</details>
+
 #### 📫 Get in touch:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susannah-bennett-a16627181/)
 
-<details>
- <summary><h4>My Coding Journey</h4></summary>
-</details>
 
 <!--
 **sfbennett/sfbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
