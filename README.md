@@ -1,4 +1,4 @@
-`Full-Stack Software Developer`
+**`Full-Stack Software Developer`**
 #### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
 
