@@ -1,8 +1,5 @@
 ### 🧰 Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)
-
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-          
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,github,git)](https://skillicons.dev)          
 
 #### 📫 Get in touch:
  
