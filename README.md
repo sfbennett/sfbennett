@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
 
 <details>
- <summary><h4>My Coding Journey</h4></summary>
+ <summary><h4>🚀 About Me</h4></summary>
  I'm a self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
 </details>
 
