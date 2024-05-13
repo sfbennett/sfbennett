@@ -5,6 +5,7 @@
 
 #### 🏳️‍🌈 About Me
 I'm a self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
+***
 
 #### 📫 Get in touch:
  
