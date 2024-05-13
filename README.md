@@ -1,12 +1,10 @@
 **`Full-Stack Software Developer`**
 
-### 🧰 Languages and Tools 
+#### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
-#
 
-### 🏳️‍🌈 About Me
+#### 🏳️‍🌈 About Me
 I'm a self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
-#
 
 #### 📫 Get in touch:
  
@@ -14,8 +12,6 @@ I'm a self-taught developer currently on the TechNative Digital Full-Stack Devel
 
 
 <!--
-**sfbennett/sfbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
