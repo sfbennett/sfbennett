@@ -1,10 +1,10 @@
 **`Full-Stack Software Developer`**
-#### 🧰 Languages and Tools 
+
+### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
 
-#### 🏳️‍🌈 About Me
+### 🏳️‍🌈 About Me
 I'm a self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
-#
 
 #### 📫 Get in touch:
  
