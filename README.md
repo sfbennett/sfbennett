@@ -4,7 +4,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git)](https://skillicons.dev) 
 
 #### 🏳️‍🌈 About Me
-I'm an editor turned self-taught developer currently on the TechNative Digital Full-Stack Developer bootcamp. 
+I'm an editor turned self-taught front-end developer currently on the TechNative Digital Full-Stack Developer 16-week bootcamp. I'm eager to turn my keen eye for design and development into a satisying and rewarding career in tech as a software developer. 
+
+As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech and ampifying under-represented voices in the industry.  
 
 #### 📫 Get in touch:
  
