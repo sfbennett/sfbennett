@@ -8,7 +8,7 @@
 #### 🏳️‍🌈 About Me
 I'm an editor turned self-taught front-end developer currently on the TechNative Digital Full-Stack Developer 16-week bootcamp. I am eager to turn my keen eye for design and development into a satisying and rewarding career in tech as a software developer. 
 
-As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech. 
+As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech 🏳️‍🌈🏳️‍⚧️ 
 
 <!-- Check out my portfolio website [here](https://sbennett.dev). -->
 
