@@ -10,7 +10,7 @@ I'm an editor turned self-taught front-end developer currently on the TechNative
 
 As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech 🏳️‍🌈🏳️‍⚧️ 
 
-<!-- Check out my portfolio website [here](https://sbennett.dev). -->
+Check out my portfolio website [here](https://sbennett.dev). 
 
 #### 📫 Get in touch:
  
