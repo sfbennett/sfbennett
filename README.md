@@ -1,7 +1,7 @@
 **`Full-Stack Software Developer`**
 
 #### 🧰 Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs)](https://skillicons.dev) 
 
 🌱 I’ve recently acquired React and Redux skills and am currently learning Node.js and Express.js. 
 
