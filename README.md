@@ -3,7 +3,7 @@
 #### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres)](https://skillicons.dev) 
 
-🌱 I’ve recently acquired Node.js and Express.js skills and am currently learning SQL and PostgreSQL. 
+🌱 I’ve recently acquired Node.js, Express.js, SQL and PostgreSQL skills and am currently learning Python.
 
 #### 🏳️‍🌈 About Me
 I'm an editor turned self-taught front-end developer who has just completed the TechNative Digital Full-Stack Developer 16-week bootcamp. I am eager to turn my keen eye for design and development into a satisying and rewarding career in tech as a software developer. 
