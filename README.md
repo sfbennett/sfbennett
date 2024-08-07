@@ -6,7 +6,7 @@
 🌱 I’ve recently acquired SQL and PostgreSQL skills and am currently learning Python, Django and React Native.
 
 #### 🏳️‍🌈 About Me
-I'm an editor turned self-taught front-end developer who has just completed the TechNative Digital Full-Stack Developer 16-week bootcamp. 
+Editor turned self-taught developer who has just completed the TechNative Digital Full-Stack Developer 16-week bootcamp. 
 
 As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech 🏳️‍🌈🏳️‍⚧️ 
 
