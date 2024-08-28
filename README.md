@@ -3,7 +3,7 @@
 #### 🧰 Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py)](https://skillicons.dev) 
 
-🌱 I’ve recently acquired SQL and PostgreSQL skills and am currently learning Python, Django and React Native.
+🌱 I’ve recently acquired SQL and PostgreSQL skills and am currently learning Django and React Native.
 
 #### 🏳️‍🌈 About Me
 Editor turned self-taught developer who has just completed the TechNative Digital Full-Stack Developer 16-week bootcamp. 
