@@ -1,7 +1,7 @@
 **`Full-Stack Software Developer`**
 
 #### 🧰 Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django)](https://skillicons.dev) 
 
 🌱 I’ve recently acquired SQL and PostgreSQL skills and am currently learning Django and React Native.
 
