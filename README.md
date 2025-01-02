@@ -1,12 +1,12 @@
 **`Full-Stack Software Developer`**
 
 #### 🧰 Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django,tailwind)](https://skillicons.dev) 
 
-🌱 I’ve recently acquired SQL and PostgreSQL skills and am currently learning Django and React Native.
+🌱 I’m currently learning Django, React Native and Python.
 
 #### 🏳️‍🌈 About Me
-Editor turned self-taught developer who has just completed the TechNative Digital Full-Stack Developer 16-week bootcamp. 
+Editor turned self-taught developer. I completed the TechNative Digital Full-Stack Developer 16-week bootcamp and am now working as an Associate Software Engineer. 
 
 As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech 🏳️‍🌈🏳️‍⚧️ 
 
