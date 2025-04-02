@@ -1,18 +1,18 @@
 **`Full-Stack Software Developer`**
 
-#### 🧰 Languages and Tools 
+#### 🧰 Tech Stack: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django,tailwind)](https://skillicons.dev) 
 
-🌱 I’m currently learning Django, React Native and Python.
+🌱 I’m currently learning Python, Django and React Native.
 
-#### 🏳️‍🌈 About Me
-Editor turned self-taught developer. I completed the TechNative Digital Full-Stack Developer 16-week bootcamp and am now working as an Associate Software Engineer. 
+#### 🏳️‍🌈 About Me:
+`Associate Software Engineer`. I also completed the TechNative Full-Stack Development bootcamp.  
 
-As a queer developer, I'm invested in LGBTQ+ inclusivity and diversity within tech 🏳️‍🌈🏳️‍⚧️ 
+As a queer developer, I'm invested in diversity and inclusivity within tech 🏳️‍🌈🏳️‍⚧️ 
 
 Check out my portfolio website [here](https://sbennett.dev). 
 
-#### 📫 Get in touch:
+#### 📫 Contact:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susannah-bennett-a16627181/)
 
