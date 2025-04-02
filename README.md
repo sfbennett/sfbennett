@@ -3,10 +3,10 @@
 #### 🧰 Tech Stack: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django,tailwind)](https://skillicons.dev) 
 
-🌱 I’m currently learning Python, Django and React Native.
+🌱 I’m learning Python, Django and React Native.
 
 #### 🏳️‍🌈 About Me:
-Currently working as an `Associate Software Engineer`. Previously, I completed the 16-week TechNative Full-Stack Development bootcamp.  
+Currently working as an `Associate Software Engineer`. Previously, I completed the TechNative Full=Stack Development bootcamp.  
 
 As a queer developer, I'm invested in diversity and inclusivity within tech 🏳️‍🌈🏳️‍⚧️ 
 
