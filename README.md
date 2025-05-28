@@ -6,9 +6,7 @@
 🌱 I’m learning Python, Django and React Native.
 
 #### 🏳️‍🌈 About Me:
-I'm currently working as an `Associate Software Engineer`.
-
-Before this, I completed the TechNative Full-Stack Development bootcamp.  
+I'm currently working as an `Associate Software Engineer`
 
 As a queer developer, I'm invested in diversity and inclusivity within tech 🏳️‍🌈🏳️‍⚧️ 
 
