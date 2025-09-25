@@ -5,7 +5,7 @@
 
 🌱 I’m learning Python, Django and React Native.
 
-#### 🏳️‍🌈 About Me:
+#### 🏳️‍🌈 About:
 I'm currently working as an `Associate Software Engineer`
 
 As a queer developer, I'm invested in diversity and inclusivity within tech 🏳️‍🌈🏳️‍⚧️ 
