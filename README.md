@@ -3,10 +3,10 @@
 #### 🧰 Tech Stack: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django,tailwind)](https://skillicons.dev) 
 
-🌱 I’m learning Python, Django and React Native.
+🌱 I'm currently learning Python and Django.
 
 #### 🏳️‍🌈 About:
-I'm currently working as an `Associate Software Engineer`
+I'm currently working as a full-stack Associate Software Engineer. 
 
 As a queer developer, I'm invested in diversity and inclusivity within tech 🏳️‍🌈🏳️‍⚧️ 
 
