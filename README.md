@@ -1,7 +1,8 @@
 **`Full Stack Software Developer`**
 
 #### 🧰 Tech Stack: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs,postgres,py,django,tailwind)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,vscode,github,git,nodejs,expressjs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,django,tailwind,supabase,docker,sentry,heroku,netlify,vscode)](https://skillicons.dev) 
 
 🌱 I'm currently learning Python and Django.
 
